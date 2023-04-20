@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClassroomSchedulingCSP", "ClassroomSchedulingCSP\ClassroomSchedulingCSP.vcxproj", "{E08962C2-7ECE-484B-94A7-A9A3D426EEB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E08962C2-7ECE-484B-94A7-A9A3D426EEB2}.Debug|x64.ActiveCfg = Debug|x64
+		{E08962C2-7ECE-484B-94A7-A9A3D426EEB2}.Debug|x64.Build.0 = Debug|x64
+		{E08962C2-7ECE-484B-94A7-A9A3D426EEB2}.Debug|x86.ActiveCfg = Debug|Win32
+		{E08962C2-7ECE-484B-94A7-A9A3D426EEB2}.Debug|x86.Build.0 = Debug|Win32
+		{E08962C2-7ECE-484B-94A7-A9A3D426EEB2}.Release|x64.ActiveCfg = Release|x64
+		{E08962C2-7ECE-484B-94A7-A9A3D426EEB2}.Release|x64.Build.0 = Release|x64
+		{E08962C2-7ECE-484B-94A7-A9A3D426EEB2}.Release|x86.ActiveCfg = Release|Win32
+		{E08962C2-7ECE-484B-94A7-A9A3D426EEB2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4752B47-65A3-4DAB-B444-C15E9A1064DA}
+	EndGlobalSection
+EndGlobal
